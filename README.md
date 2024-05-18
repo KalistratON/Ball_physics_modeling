@@ -10,7 +10,7 @@
 - сопротивление среды.
 
 # Установка
-<i>git clone git@github.com:KalistratON/Ball_physics_modeling.git</i>
+<i>git clone git@github.com:KalistratON/throwing_ball_physics.git</i>
 <br />
 <br />
 open <i>index.html</i>
